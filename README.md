@@ -6,6 +6,14 @@ Welcome to the repository holding the Db2 REST language-specific SDKs & language
 
 So easy, in fact, that the only documentation you'll need for each wrapper is a *single example* that demonstrates its use!
 
-# Db2 REST Native CodeGen
+## Examples & resources
+
+The following resources show demonstrations of SDKs & CodeGen functionality:
+
+1. [Movie Explorer](https://github.com/IBM-Db2-Developer/Movie-Explorer-Code-Pattern) code pattern
+1. [Atomic Audio Recognition](https://github.com/IBM-Db2-Developer/Atomic-Music-Discovery-With-Db2) code pattern
+1. [BLOG]
+
+## Db2 REST Native CodeGen
 
 The Native CodeGen utility will scrape Db2 REST for your service names and version, parameter names and types, and return value names and types, and auto-generate functions that use language-native functionality and types to make it *even easier* to interface with your Db2 REST services. Check out the Swift language code generator in the Swift folder to get started.
